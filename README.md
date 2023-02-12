@@ -1,6 +1,6 @@
 # Mini shell
 
-Mini shell is an interactive shell program run on **Linux** using the creation, management, and coordination of multiple processes, imitating the Unix shell.
+Mini shell is an interactive shell program run on **Linux** using the creation, management, and coordination of multiple processes, imitating the Unix shell. I got full marks on this assignment from the Operating System course.
 
 # Features
 
